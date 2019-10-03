@@ -1,0 +1,4 @@
+    
+    console.log("Change menu: " + changeMenu($(window)));
+    console.log("Menu is expanded: " + $("#main-menu-toggler").attr("aria-expanded"))
+    console.log("__________________________________");
